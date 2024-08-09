@@ -1,5 +1,3 @@
-# data-for-processing
-prepare the data for estimating melt water storage
 # README
 
 
@@ -13,8 +11,6 @@ The sample code is written in MATLAB. With the following file structure, you can
 &nbsp;<br>
 **Src**<br>
 　&nbsp; **--/data_for_processing.m**：Main script to prepare the data for estimating melt water storage.<br>
-　&nbsp; **--/est_Thet_Bet_y1Er_Reg0Eanyy_Reg0B_Reg0ErMean_E_r_pavel.m**:&nbsp; Function used in inversion_Reg0E2013.m.<br>
-　&nbsp;  **--/selected_time_series_to_given_time_interval.m**: &nbsp;Function used in inversion_Reg0E2013.m.<br>
  &nbsp;<br>
 **Output**:&nbsp; Path to store the output.						 
 
