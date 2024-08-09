@@ -8,7 +8,7 @@ The sample code is written in MATLAB. With the following file structure, you can
 **Input**:&nbsp; .txt files of KAGA station<br>
 &nbsp;<br>
 **Src**<br>
-　&nbsp; **--/data_for_processing.m**：Main script to prepare the data for estimating melt water storage.<br>
+&nbsp; **--/data_for_processing.m**：Main script to prepare the data for estimating melt water storage.<br>
   &nbsp; **--/daily_to_decimal_year.m**：Each day in terms of decimal year.<br>
   &nbsp; **--/daily_to_monthly_mean_GNET_time_series.m**：Daily time-series to monthly mean time-series.<br>
   &nbsp; **--/GNSS_data_gap.m**：Find the data gap of GNSS data.<br>
